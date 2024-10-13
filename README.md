@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ippilikushal" target="blank"><img src="https://img.shields.io/twitter/follow/ippilikushal?logo=twitter&style=for-the-badge" alt="ippilikushal" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m a **Back End Developer**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate for **Opportunity's**
 
-- 🤝 I’m looking for Internships **on Software Development Role**
+- 🤝 I’m looking for Full time opportunity **on Software Development Role**
 
 - 📫 How to reach me **ippilikushal@gmail.com**
 
